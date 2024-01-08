@@ -1,0 +1,6 @@
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day2\UnitTestProject\ConsoleAppUserApp\obj\Debug\ConsoleAppUserApp.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day2\UnitTestProject\ConsoleAppUserApp\obj\Debug\ConsoleAppUserApp.csproj.CoreCompileInputs.cache
+D:\Phase 4\Day-2\Phase4_Assignment2-master\UnitTestProject\ConsoleAppUserApp\obj\Debug\ConsoleAppUserApp.csproj.AssemblyReference.cache
+D:\Phase 4\Day-2\Phase4_Assignment2-master\UnitTestProject\ConsoleAppUserApp\obj\Debug\ConsoleAppUserApp.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\UnitTestProject\ConsoleAppUserApp\obj\Debug\ConsoleAppUserApp.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\UnitTestProject\ConsoleAppUserApp\obj\Debug\ConsoleAppUserApp.csproj.CoreCompileInputs.cache
